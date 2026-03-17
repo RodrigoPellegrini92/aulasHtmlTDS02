@@ -1,0 +1,17 @@
+.titulo-descricao {
+              font-family: Segoe UI;
+              font-size: 13px;
+              color: cyan;
+            }
+
+            .foto-perfil {
+              width: 150px;
+              height: 150px;
+              border-radius: 20px;
+            }
+
+            a {
+              font-family: Segoe UI;
+              font-size: 13px;
+              color: cyan
+            }
